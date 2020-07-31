@@ -1,6 +1,6 @@
 {
   "name": "@michaelqq/deepomit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "deep omit function base on ramda.js",
   "main": "index.js",
   "scripts": {
