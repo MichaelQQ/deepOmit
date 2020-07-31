@@ -1,6 +1,6 @@
 {
   "name": "@michaelqq/deepomit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "deep omit function base on ramda.js",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "ava": "^3.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelQQ/deepomit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MichaelQQ/deepomit/issues"
+  },
+  "homepage": "https://github.com/MichaelQQ/deepomit#readme"
 }
