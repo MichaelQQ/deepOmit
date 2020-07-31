@@ -1,0 +1,21 @@
+{
+  "name": "deepomit",
+  "version": "1.0.0",
+  "description": "deep omit function base on ramda.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "omit",
+    "js"
+  ],
+  "author": "MingSian Tu",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "ava": "^3.11.0"
+  }
+}
