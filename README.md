@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/MichaelQQ/dbfstream.svg)](https://travis-ci.org/MichaelQQ/dbfstream) [![Build status](https://ci.appveyor.com/api/projects/status/pxu5c6xyhinjc6d3?svg=true)](https://ci.appveyor.com/project/MichaelQQ/dbfstream)
-[![npm version](https://badge.fury.io/js/dbfstream.svg)](https://badge.fury.io/js/dbfstream)
-[![NPM Downloads](https://img.shields.io/npm/dt/dbfstream.svg)](https://www.npmjs.com/package/dbfstream)
-
 deepOmit
 ===
 deep omit function base on ramda.js
